@@ -1,7 +1,37 @@
 .container {
 
-background-color: lightgrey;
-height: 40em;
-width: 30em;
+margin: 0 auto;
+background-color: rgb(240, 239, 239);
+height: 20em;
+width: 65em;
+border-radius: 15px;
 
 }
+
+h1 {
+    margin: 15px;
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(65, 65, 65);
+    
+} 
+
+#button {
+
+    height: 4em;
+    width: 9em;
+    float: right;
+    border-style: none;
+    background-color: rgb(100, 107, 207);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+    
+#button:hover {
+
+    background-color: rgb(87, 94, 190);
+
+    }
