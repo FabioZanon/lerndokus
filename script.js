@@ -1,5 +1,8 @@
-alert('Willkommen auf meiner Lerndokumentation-Website!');
+alert('Willkommen auf meiner Lerndoku Website!');
 
-document.getElementById('button').onclick = function() {
-    alert("Durch die untenstehenden Links gelangen Sie zu meinen Lerndokumentationen");
- }​;​
+function myFunction(){
+
+    alert("Durch die untenstehenden Links gelangen Sie zu meinen Lerndokumentationen.");
+    
+    };
+    

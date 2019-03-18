@@ -26,6 +26,7 @@ h1 {
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     font-family: 'Open Sans', sans-serif;
+    color: rgb(65, 65, 65);
 }
 
 
@@ -34,4 +35,34 @@ h1 {
 
     background-color: rgb(87, 94, 190);
 
+    }
+
+
+    p {
+
+
+        
+        font-family: 'Open Sans', sans-serif;
+
+
+
+    }
+
+    .brake {
+
+        padding-top: 3em;
+    }
+
+
+    .text {
+
+        margin: 0 auto;
+        height: 20em;
+        width: 65em;
+    }
+
+    a {
+
+        font-family: 'Open Sans', sans-serif;
+        text-decoration: none;
     }
